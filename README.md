@@ -1,4 +1,8 @@
-# Credit Card Transactions PostgreSQL Project
+# Credit Card Transactions
+- **Database and Tools**
+- Postgre SQL
+- PgAdmin4
+
 ## Overview:
 
 Given dataset contains 4 files (both in csv and excel format) which provides 
