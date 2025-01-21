@@ -1,4 +1,11 @@
-# Credit Card PostgreSQL Project
+# Credit Card Transactions PostgreSQL Project
+## Overview:
+
+Given dataset contains 4 files (both in csv and excel format) which provides 
+information related to the type of card customers have, details about the credit 
+card, transactions which are marked as fraudulent and the transactions done by 
+each customer. Use this information to better understand the credit card 
+transactions and solve given problems.
 
 # SOLUTIONS 
 
